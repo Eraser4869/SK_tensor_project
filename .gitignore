@@ -1,5 +1,12 @@
-.venv
 *.pyc
+pycache/
+/pycache/
+
+
+*.csv
+*.exe
+*.xls
+*.xlsx
 
 
 .env
